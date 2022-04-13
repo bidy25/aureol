@@ -1,0 +1,99 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ks_partner_fisc
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0-20211006\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-25 10:26+0000\n"
+"PO-Revision-Date: 2021-11-25 10:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: ks_partner_fisc
+#: model_terms:ir.ui.view,arch_db:ks_partner_fisc.res_company_form_inherit
+msgid "CNaPS informations"
+msgstr "Informations sur CNaPS"
+
+#. module: ks_partner_fisc
+#: model:ir.model,name:ks_partner_fisc.model_res_company
+msgid "Companies"
+msgstr "Sociétés"
+
+#. module: ks_partner_fisc
+#: model:ir.model,name:ks_partner_fisc.model_res_partner
+msgid "Contact"
+msgstr ""
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company__display_name
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_partner__display_name
+msgid "Display Name"
+msgstr "Nom affiché"
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company__id
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_partner__id
+msgid "ID"
+msgstr ""
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company____last_update
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_partner____last_update
+msgid "Last Modified on"
+msgstr "Dernière modification le"
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company__main_activity
+msgid "Main activity"
+msgstr "Activités"
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company__member_code
+msgid "Member code"
+msgstr "Code adhérent"
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company__nif
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_partner__nif
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_users__nif
+msgid "NIF"
+msgstr ""
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company__cnaps
+msgid "N° CNaPS Employer"
+msgstr "N° CNaPS Employeur"
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company__number_registration
+msgid "N° Registration"
+msgstr "N° Matricule "
+
+#. module: ks_partner_fisc
+#: model_terms:ir.ui.view,arch_db:ks_partner_fisc.res_company_form_inherit
+msgid "OSTIE informations"
+msgstr "Informations sur OSTIE"
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_partner__rcs
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_users__rcs
+msgid "RCS"
+msgstr ""
+
+#. module: ks_partner_fisc
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_company__stat
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_partner__stat
+#: model:ir.model.fields,field_description:ks_partner_fisc.field_res_users__stat
+msgid "STAT"
+msgstr ""
+
+#. module: ks_partner_fisc
+#: model_terms:ir.ui.view,arch_db:ks_partner_fisc.res_company_form_inherit
+msgid "Tax informations"
+msgstr "Informations fiscales"
